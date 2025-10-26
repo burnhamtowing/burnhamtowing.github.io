@@ -60,7 +60,7 @@ a:hover { text-decoration: underline; }
   border-bottom: 1px solid #e5e9ef;
 }
 .nav { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: .5rem 0; }
-.brand img { height: 90px; width: auto; }
+.brand img { height: 130px; width: auto; }
 .nav-actions { display: flex; gap: .5rem; flex-wrap: wrap; }
 
 /* ---------- Hero ---------- */
@@ -100,7 +100,7 @@ a:hover { text-decoration: underline; }
 /* ---------- Footer ---------- */
 .site-footer { background: #0b0f14; color: #d7dee7; padding: 1.25rem 0 0; margin-top: 2rem; }
 .foot-wrap { display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
-.foot-brand img { height: 70px; filter: drop-shadow(0 1px 2px #0008); }
+.foot-brand img { height: 90px; filter: drop-shadow(0 1px 2px #0008); }
 .foot-actions { display: flex; gap: .5rem; flex-wrap: wrap; }
 .legal { text-align: center; font-size: .9rem; opacity: .8; padding: .7rem 0 1rem; margin: 0; }
 
