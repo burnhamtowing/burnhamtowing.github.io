@@ -113,5 +113,5 @@ a:hover { text-decoration: underline; }
   .trust { grid-template-columns: 1fr; }
   .services .grid { grid-template-columns: 1fr; }
   .contact .contact-grid { grid-template-columns: 1fr; }
-  .brand img { height: 46px; }
+  .brand img { height: 130px; }
 }
